@@ -1,0 +1,2 @@
+djc_auto为Android版本，需要搭配sign.config使用
+djc_automation为PC版本
